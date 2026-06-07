@@ -41,6 +41,9 @@ WhatsApp (zielony) i Email, paleta kolorów, font szeryfowy, galeria + lightbox.
     /pompa/                      -> PRODUKT 2: pompa Stuart Turner
         index.html
         /photos/  photo1.webp ... photo6.webp   <- WŁAŚCICIEL WRZUCA SAM
+    /papier/                     -> PRODUKT 3: rolki papieru ściernego Klingspor
+        index.html
+        /photos/  photo1.webp ... photo5.webp   <- WŁAŚCICIEL WRZUCA SAM
 
 Pliki index2.html...index6.html oraz index.html_old w /metabo/ to STARE
 WERSJE ROBOCZE z budowy strony — można je skasować, nie są nigdzie używane.
@@ -53,6 +56,7 @@ WERSJE ROBOCZE z budowy strony — można je skasować, nie są nigdzie używane
 |---------|--------------------------------------------|----------|--------------------------|------------|
 | metabo  | Metabo KS 254 Plus (piła ukosowa 254mm)    | £180 ono | odbiór osobisty (~18kg)  | nie        |
 | pompa   | Stuart Turner Showermate ECO S1.5 Twin     | £50      | odbiór LUB wysyłka £5    | nie        |
+| papier  | Klingspor PS 30 D, 115×10m, zestaw 5 rolek | £25      | odbiór LUB wysyłka £5    | nie        |
 
 ---
 
@@ -164,3 +168,11 @@ to NIE jest sprzedaż firmowa.
   0.6 bar @ 18 l/min, max przepływ 32 l/min, max inlet head 10 m, WRAS/CE.
   Cena £50, wysyłka £5. Zdjęcia wrzuca właściciel (5 szt., w tym tabliczka).
   Wycena rynkowa używanej: realnie £50–85 wg ofert eBay UK; nowa £120–180.
+- Produkt 3 (papier): Klingspor PS 30 D, format 115 mm × 10 m, zestaw 5 rolek
+  (ziarna 60 / 80 / 100 / 120 / 180). Nowe, nieużywane — surplus ze sklepu
+  MatMax (etykieta MATMAXshop). Ziarno: tlenek glinu (aluminium oxide), spoiwo
+  żywiczne, podłoże D-weight (wytrzymałe + elastyczne), powłoka półotwarta
+  (semi-open, mniej się klei przy farbie/szpachli). Zastosowanie: drewno,
+  farba, lakier, szpachla, gips, metal; ręcznie i maszynowo. Cena £25 za cały
+  zestaw, wysyłka £5. Kąt sprzedażowy: pojedyncza rolka ~£13 w handlu; komplet
+  5 rolek nowych ~£60–65; tu wszystko za £25. Zdjęcia wrzuca właściciel (5 szt.).
