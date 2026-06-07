@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#1a1a1a"/>
+  <!-- saw blade -->
+  <circle cx="40" cy="24" r="13" fill="none" stroke="#f4a460" stroke-width="3"/>
+  <circle cx="40" cy="24" r="3" fill="#f4a460"/>
+  <g fill="#f4a460">
+    <rect x="39" y="8"  width="2" height="4"/>
+    <rect x="39" y="36" width="2" height="4"/>
+    <rect x="23" y="23" width="4" height="2"/>
+    <rect x="53" y="23" width="4" height="2"/>
+    <rect x="28" y="12" width="3" height="2" transform="rotate(45 29 13)"/>
+    <rect x="49" y="33" width="3" height="2" transform="rotate(45 50 34)"/>
+    <rect x="49" y="12" width="3" height="2" transform="rotate(-45 50 13)"/>
+    <rect x="28" y="33" width="3" height="2" transform="rotate(-45 29 34)"/>
+  </g>
+  <!-- bench / table -->
+  <rect x="10" y="44" width="44" height="5" rx="1.5" fill="#8b6f47"/>
+  <rect x="14" y="49" width="4" height="8" fill="#6b5635"/>
+  <rect x="46" y="49" width="4" height="8" fill="#6b5635"/>
+</svg>
